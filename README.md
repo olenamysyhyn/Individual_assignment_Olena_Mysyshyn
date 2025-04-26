@@ -1,4 +1,4 @@
-# Individual_assignment_Olena_Mysyshyn
+# Documentation Individual_assignment_Olena_Mysyshyn
 
 Метою проєкту є реалізація цифрового підпису для зображень із використанням алгоритму RSA 4096 біт та прихованого зберігання підпису у файлі зображення. Проєкт реалізовано мовою Python 3, з використанням бібліотеки **pycryptodome** для криптографічних операцій.
 
